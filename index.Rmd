@@ -361,6 +361,7 @@ class: clear
 ]
 
 ---
+
 class: hide-logo, inverse, center, middle
 
 # La trappola della realtà codificata
@@ -482,7 +483,8 @@ https://www4.ti.ch/fileadmin/DFE/DE-SDL/varie/disoccupazione_lettura_dati.pdf
 ]
 
 ---
-class: hide-logo, center, middle
+
+class: hide-logo, inverse, center, middle
 
 # I vantaggi del confronto
 
@@ -525,29 +527,29 @@ class: clear
 class: clear
 
 
-.font90[
-.pull-left[
-###### Fino a questa pausa pranzo
+.left-column[
+##### Fino a ieri
 
 .img-left[![](immagini/poppins-bag.gif)]
 
 ]
+
+--
+
+.right-column[
+##### Regole magiche
+*"Prima di fare il bagno bisogna aspettare almeno 30 minuti"*
+
 ]
 
 --
 
-.pull-right[
-Il mondo della statistica era simile alla regola:  
-> *"prima di fare il bagno bisogna aspettare almeno 30 minuti"*
+.right-column[
+<br>
 
-]
-
-
---
-
-.pull-right[
-Oppure a frasi fatte:  
-> *"Se vuoi ispirare fiducia, dai molti dati statistici. Non importa che siano comprensibili, basta che siano in quantità sufficiente"* (Lewis Carroll)  
+##### O luoghi comuni
+*"Se vuoi ispirare fiducia, dai molti dati statistici. Non importa che siano comprensibili, basta che siano in quantità sufficiente"*  
+(Lewis Carroll)
 
 ]
 
@@ -555,20 +557,18 @@ Oppure a frasi fatte:
 
 class: clear
 
-.font80[
 .left-column[
-###### Nei prossimi giorni
+##### Da domani
 
 <br>
 .img-left[![](immagini/poppins-bag-kids.gif)]
-]
 ]
 
 --
 
 .right-column[
-###### La regola delle 3C
-###### .mid-warm-grey[CUBe's formula: `*Check x understand x be aware*`]
+##### La regola delle 3C
+##### .mid-warm-grey[CUBe's formula: `*Check x understand x be aware*`]
 1. .hl[**C**ontrollare], dato e percezioni sono confrontabili? E il contrario?  
 .mid-warm-grey[*[**C**heck]*]  
 2. .hl[**C**omprendere il senso], l'uso dei dati ha senso rispetto al contesto?  
@@ -586,7 +586,7 @@ class: clear
 .left-column[
 #### dalla cultura del pretendere
 #### alla cultura del confronto
-#### in sintesi
+#### alla conclusione
 
 ]
 ]
@@ -596,7 +596,7 @@ class: clear
 
 ![](immagini/poppins-trucco.gif)  
 
-Il salto culturale, cioè passare dalla cultura del pretendere alla cultura del .hl[confronto] è qualcosa di più di un semplice *make-up*, per farlo occorre fare chiarezza su quello che sentiamo, su quello che vorremmo e poi verificare se, e come, la statistica ci può aiutare a creare un filo.  
+Il salto culturale, cioè passare dalla cultura del pretendere alla cultura del .hl[confronto] è qualcosa di più di un semplice *make-up*, per farlo occorre fare chiarezza su quello che sentiamo, su quello che vorremmo e poi verificare se, e come, la statistica ci può aiutare a tirare un filo.  
 .font60[.mid-warm-grey[*[autore sconosciuto]*]]
 
 
