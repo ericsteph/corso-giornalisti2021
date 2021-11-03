@@ -50,7 +50,7 @@ class: title-slide clear
 ---
 class: clear, middle
 
-#### Statistica pubblica, dati e giornalismo
+#### Dati, statistica pubblica e giornalismo
 
 --
 
@@ -72,7 +72,7 @@ class: clear, middle
 # Il sensibile
 
 ##### La realtà percepita
-*A vostro avviso, riferendovi alle vostre percezioni, intuizioni o esperienze*
+*A vostro avviso, riferendovi alle vostre percezioni o esperienze*
 
 > "[...] nei prossimi 12 mesi quale sarà l’evoluzione del numero di disoccupati in Svizzera?"
 
@@ -107,7 +107,7 @@ class: clear, middle
 
 .pull-left[
 
-##### Dalla trappola della realtà codificata
+##### La trappola della realtà codificata
 
 ![](immagini/03_30min_250.jpg)
 .font50[
@@ -122,7 +122,7 @@ Paris21, conferenza annuale, Berna, 04.04.2018 - [[link]](https://paris21.org/ab
 
 .pull-right[
 
-##### ... alla regola delle 3C
+##### La regola delle 3C
 
 .font80[
 1. **.hl[**C**]ontrollare** .font80[.mid-warm-grey[*[Check]*]]  
@@ -131,7 +131,7 @@ Paris21, conferenza annuale, Berna, 04.04.2018 - [[link]](https://paris21.org/ab
 2. **.hl[**C**]omprendere il senso** .font80[.mid-warm-grey[*[Understand the context]*]]  
 Rispetto al contesto ha senso usare dei dati statistici
 
-3. **Essere .hl[**c**]onsapevoli** .font80[.mid-warm-grey[*[Be aware of the source]*]]  
+3. Essere **.hl[c]onsapevoli** .font80[.mid-warm-grey[*[Be aware of the source]*]]  
 Si sa da dove arriva il dato e perché si usa una determinata fonte
 
 ]
@@ -171,7 +171,7 @@ class: hide-logo, inverse, center, middle
 
 ---
 
-# Un caso pratico
+# Un esempio
 
 .font90[
 .left-column[
@@ -182,7 +182,7 @@ class: hide-logo, inverse, center, middle
 
 
 .right-column[
-.font40[
+.font50[
 07 ottobre 2021,
   [www.**seco**.admin.ch](https://www.seco.admin.ch/dam/seco/it/dokumente/Publikationen_Dienstleistungen/Publikationen_Formulare/Arbeit/Arbeitslosenversicherung/Die%20Lage%20auf%20dem%20Arbeitsmarkt/arbeitsmarkt_2021/alz_09_2021.pdf.download.pdf/alz_september_2021_it.pdf) : ***"La situazione sul mercato del lavoro settembre 2021"***
 ]
@@ -196,7 +196,7 @@ class: hide-logo, inverse, center, middle
 --
 
 .right-column[
-.font40[
+.font50[
 07 ottobre 2021,
   [RG - RSI](https://www.rsi.ch/news/svizzera/La-disoccupazione-scende-ancora-14777991.html) : ***"La disoccupazione scende ancora"***
 ]
@@ -210,7 +210,7 @@ class: hide-logo, inverse, center, middle
 --
 
 .right-column[
-.font60[
+.font50[
 <br>
 Chi pubblica i dati?  ]
 .font50[
@@ -381,6 +381,8 @@ class: hide-logo, inverse, center, middle
 
 --
 
+<br>
+
 .font60[
 16 settembre 2021,
   [www.**cdt**.ch](https://www.cdt.ch/economia/disoccupazione-in-svizzera-piu-alta-che-in-germania-MK4639842?_sid=oxVetYDu
@@ -429,10 +431,10 @@ Punto di partenza
 .img-left[![](immagini/omino-lente2.png)]
 
 .font70[
-Applicando la *Regola delle 3C*:  
-- *Confrontabile*  
-- *Comprensibile*  
-- *Consapevoli*
+Applicare la *Regola delle 3C*:  
+- *.hl[C]ontrollare*  
+- *.hl[C]omprendere*  
+- Essere *.hl[c]onsapevoli*
 
 ]
 ]
@@ -480,7 +482,7 @@ https://www4.ti.ch/fileadmin/DFE/DE-SDL/varie/disoccupazione_lettura_dati.pdf
 ]
 
 ---
-class: inverse, center, middle
+class: hide-logo, center, middle
 
 # I vantaggi del confronto
 
@@ -502,10 +504,10 @@ class: clear
 ---
 class: clear
 
-.font90[
+.font80[
 .left-column[
 #### Disoccupati iscritti vs. disoccupati ai sensi dell'ILO
-#### .hl[Percezione] dell'evoluzione della disoccupazione
+#### .hl[Percezione] dell'evoluzione della disoccupazione nei prossimi 12 mesi
 
 ]
 ]
@@ -519,29 +521,44 @@ class: clear
 
 
 ---
-# Riepilogo
 
-.font80[
+class: clear
+
+
+.font90[
 .pull-left[
 ###### Fino a questa pausa pranzo
-#### Il mondo della statistica era un po' come i famosi ''30 minuti''... una regola magica
+
+.img-left[![](immagini/poppins-bag.gif)]
 
 ]
 ]
+
+--
 
 .pull-right[
-.img-left[![](immagini/poppins-bag.gif)]
+Il mondo della statistica era simile alla regola:  
+> *"prima di fare il bagno bisogna aspettare almeno 30 minuti"*
+
+]
+
+
+--
+
+.pull-right[
+Oppure a frasi fatte:  
+> *"Se vuoi ispirare fiducia, dai molti dati statistici. Non importa che siano comprensibili, basta che siano in quantità sufficiente"* (Lewis Carroll)  
 
 ]
 
 ---
 
-# Scoperta della regola delle 3C
+class: clear
 
 .font80[
 .left-column[
-#### **PRIMA:** il mondo della statistica aveva del magico
-#### **ORA:** c'è (spero) almeno un po' di curiosità
+###### Nei prossimi giorni
+
 <br>
 .img-left[![](immagini/poppins-bag-kids.gif)]
 ]
@@ -551,7 +568,7 @@ class: clear
 
 .right-column[
 ###### La regola delle 3C
-###### .mid-warm-grey[CUBe's rule: `*Check, understand, be aware*`]
+###### .mid-warm-grey[CUBe's formula: `*Check x understand x be aware*`]
 1. .hl[**C**ontrollare], dato e percezioni sono confrontabili? E il contrario?  
 .mid-warm-grey[*[**C**heck]*]  
 2. .hl[**C**omprendere il senso], l'uso dei dati ha senso rispetto al contesto?  
@@ -562,12 +579,14 @@ class: clear
 ]
 
 ---
+
 class: clear
 
 .font80[
 .left-column[
 #### dalla cultura del pretendere
 #### alla cultura del confronto
+#### in sintesi
 
 ]
 ]
