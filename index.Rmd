@@ -42,9 +42,9 @@ class: title-slide clear
 
 ### Eric Stephani, Ufficio di statistica (USTAT)
 #### Dipartimento delle finanze e dell'economia
-#### Sezione delle risorse
+#### Divisione delle risorse
 
-##### *Bellinzona, novembre 2021*
+##### *Melide, 17 novembre 2021*
 
 
 ---
@@ -173,7 +173,7 @@ class: hide-logo, inverse, center, middle
 
 # Un esempio
 
-.font90[
+.font70[
 .left-column[
 #### .hl[Quanti] sono i disoccupati iscritti?
 
@@ -230,9 +230,10 @@ Chi pubblica i dati?  ]
 ]
 
 ---
+
 class: clear
 
-.font90[
+.font70[
 .left-column[
 #### Quanti sono i disoccupati iscritti?
 #### E in Ticino?
@@ -270,7 +271,7 @@ La domanda non è scorretta, ma ce n'è una .hl[più] urgente
 ---
 class: clear
 
-.font90[
+.font70[
 .left-column[
 #### Quanti sono i disoccupati iscritti?
 #### **.hl[Chi]** sono i disoccupati iscritti?
@@ -307,9 +308,10 @@ I *disoccupati iscritti* --> [definizione](https://www3.ti.ch/DFE/DR/USTAT/index
 ]
 
 ---
+
 class: clear
 
-.font90[
+.font70[
 .left-column[
 #### Quanti sono i disoccupati iscritti?
 #### Chi sono i disoccupati iscritti?
@@ -324,9 +326,10 @@ class: clear
 ]
 
 ---
+
 class: clear
 
-.font90[
+.font70[
 .left-column[
 #### Quanti sono i disoccupati iscritti?
 #### Chi sono i disoccupati iscritti?
@@ -342,9 +345,10 @@ class: clear
 ]
 
 ---
+
 class: clear
 
-.font90[
+.font70[
 .left-column[
 #### Quanti sono i disoccupati iscritti?
 #### Chi sono i disoccupati iscritti?
@@ -386,8 +390,8 @@ class: hide-logo, inverse, center, middle
 
 .font60[
 16 settembre 2021,
-  [www.**cdt**.ch](https://www.cdt.ch/economia/disoccupazione-in-svizzera-piu-alta-che-in-germania-MK4639842?_sid=oxVetYDu
-) *"Disoccupazione in Svizzera più alta che in Germania"*
+  [www.**cdt**.ch: ](https://www.cdt.ch/economia/disoccupazione-in-svizzera-piu-alta-che-in-germania-MK4639842?_sid=oxVetYDu)
+*"Disoccupazione in Svizzera più alta che in Germania"*
 ]
 
 .font70[
@@ -398,18 +402,22 @@ class: hide-logo, inverse, center, middle
 
 
 ---
+
 class: hide-logo, inverse, center, middle
 
 # ~~Digitalizzazione~~, ~~automatizzazione~~, ~~*big data*~~ oppure, semplicemente, provare a .hl[**cambiare**]
 
 
 ---
+
 class: middle clear
+
 ### Come cambiare e perché ha senso cambiare
 
 .mid-warm-grey[
 .font80[
 Punto di partenza
+
 ]
 ]
 
@@ -422,6 +430,7 @@ Punto di partenza
 .hl[Voglio] dei dati che:
 - confermino la mia tesi  
 - nel caso, possa almeno dire: *tanto sono sbagliati!*
+
 ]
 ]
 
@@ -441,6 +450,7 @@ Applicare la *Regola delle 3C*:
 ]
 
 ---
+
 class: middle clear
 
 ### Risultato *ideale*
@@ -448,6 +458,7 @@ class: middle clear
 .mid-warm-grey[
 .font80[
 Orizzonte
+
 ]
 ]
 
@@ -457,6 +468,7 @@ Orizzonte
 .font70[
 .hl[Grazie] a una migliore conoscenza della statistica
 ]
+
 ##### Dalla cultura dello scoprire
 .img-left[![](immagini/omino-lente2.png)]
 
@@ -465,9 +477,12 @@ Orizzonte
 .pull-right[
 .font70[
 ~~Cultura del pretendere~~
+
 ]
+
 ##### Alla cultura del .hl[**confronto**]
 .img.left[![](immagini/confusione_omini3.png)]
+
 ]
 
 --
@@ -491,7 +506,7 @@ class: hide-logo, inverse, center, middle
 ---
 class: clear
 
-.font90[
+.font70[
 .left-column[
 #### Disoccupati ai sensi dell'ILO .hl[vs.] disoccupati iscritti
 ]
@@ -506,7 +521,7 @@ class: clear
 ---
 class: clear
 
-.font80[
+.font70[
 .left-column[
 #### Disoccupati iscritti vs. disoccupati ai sensi dell'ILO
 #### .hl[Percezione] dell'evoluzione della disoccupazione nei prossimi 12 mesi
@@ -528,16 +543,16 @@ class: clear
 
 
 .left-column[
-##### Fino a ieri
+###### Fino a ieri
 
+<br>
 .img-left[![](immagini/poppins-bag.gif)]
-
 ]
 
 --
 
 .right-column[
-##### Regole magiche
+#### Un numero più una fonte "sicura" = Regola magica
 *"Prima di fare il bagno bisogna aspettare almeno 30 minuti"*
 
 ]
@@ -547,18 +562,22 @@ class: clear
 .right-column[
 <br>
 
-##### O luoghi comuni
+###### La statistica dei... luoghi comuni
 *"Se vuoi ispirare fiducia, dai molti dati statistici. Non importa che siano comprensibili, basta che siano in quantità sufficiente"*  
 (Lewis Carroll)
 
+
+Altri esempi: [*''raccolta'' Istat*](https://www.istat.it/it/archivio/16514)
+
 ]
+
 
 ---
 
 class: clear
 
 .left-column[
-##### Da domani
+###### Da domani
 
 <br>
 .img-left[![](immagini/poppins-bag-kids.gif)]
@@ -567,8 +586,8 @@ class: clear
 --
 
 .right-column[
-##### La regola delle 3C
-##### .mid-warm-grey[CUBe's formula: `*Check x understand x be aware*`]
+#### La regola delle 3C
+#### .mid-warm-grey[CUBe's formula: `*Check x understand x be aware*`]
 1. .hl[**C**ontrollare], dato e percezioni sono confrontabili? E il contrario?  
 .mid-warm-grey[*[**C**heck]*]  
 2. .hl[**C**omprendere il senso], l'uso dei dati ha senso rispetto al contesto?  
@@ -582,13 +601,9 @@ class: clear
 
 class: clear
 
-.font80[
 .left-column[
-#### dalla cultura del pretendere
-#### alla cultura del confronto
-#### alla conclusione
+###### Ultimi appunti
 
-]
 ]
 
 
@@ -603,11 +618,35 @@ Il salto culturale, cioè passare dalla cultura del pretendere alla cultura del 
 .font60[
 <br>
 <br>
-Contatto:      
-[eric.stephani@ti.ch](mailto:eric.stephani@ti.ch)  
+<br>
+<br>
 <br>
 .mid-warm-grey[
-Slides create con R, via [**{xaringan}**](https://github.com/yihui/xaringan)
+Slides create con R via: [{r-project}](https://www.r-project.org) e [{xaringan}](https://github.com/yihui/xaringan)
+
 ]
 ]
 ]
+
+---
+
+class: title-slide-fin clear hide-logo
+
+![](immagini/logo_ultima.png)
+
+# Contatti
+
+.font70[
+.pull-right2[
+.white[ ]  
+Eric Stephani  
+[eric.stephani@ti.ch](mailto:eric.stephani@ti.ch)  
+
+.white[ ]  
+Repubblica e Canton Ticino  
+Divisione delle risorse  
+**Ufficio di statistica**  
+[www.ti.ch/ustat](http://www.ti.ch/ustat)
+]
+]
+
