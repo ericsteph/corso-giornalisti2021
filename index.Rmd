@@ -44,14 +44,15 @@ class: title-slide clear
 #### Dipartimento delle finanze e dell'economia
 #### Divisione delle risorse
 
-##### *Melide, 18 novembre 2021*
+##### *Corso di giornalismo, 2021*
 
 ---
 class: clear, middle
 
 .font110[
-*"Non mi fido molto delle statistiche, perché un uomo con la testa nel forno acceso e i piedi nel congelatore statisticamente  ha una temperatura media"*
+*"Non mi fido molto delle statistiche, perché statisticamente un uomo con la testa nel forno acceso e i piedi nel congelatore ha una temperatura media"*
 ]
+
 .dark-warm-grey[
 .font80[
 Charles Bukowski
@@ -65,8 +66,6 @@ class: clear, middle
 
 --
 
-
-
 <br>
 ### ***Vademecum***
 
@@ -77,6 +76,8 @@ class: clear, middle
 
 --
 3. La *statistica pubblica e il giornalismo*, con quale ruolo?  
+
+
 
 ---
 
@@ -113,12 +114,45 @@ class: clear, middle
 ]
 
 ---
+class: clear
 
-# Dall'intellegìbile al ruolo della statistica
+.font70[
+.left-column[
+#### .hl[Percezione] dell'evoluzione del numero dei disoccupati
+
+]
+]
+
+--
+
+.right-column[
+![](plot/p6.svg)
+
+]
+
+---
+class: clear
+
+.font70[
+.left-column[
+#### Percezione dell'evoluzione del numero dei disoccupati
+#### Disoccupati iscritti in Svizzera e in Ticino
+
+]
+]
+
+
+.right-column[
+![](plot/p1.svg)
+]
+
+---
+
+# L'intellegìbile e il ruolo della statistica
 
 .pull-left[
 
-##### La trappola della realtà codificata
+##### Problema: la trappola della realtà codificata
 
 ![](immagini/03_30min_250.jpg)
 .font50[
@@ -241,7 +275,6 @@ Chi pubblica i dati?  ]
 ]
 
 ---
-
 class: clear
 
 .font70[
@@ -318,23 +351,6 @@ I *disoccupati iscritti* --> [definizione](https://www3.ti.ch/DFE/DR/USTAT/index
 ]
 ]
 
----
-
-class: clear
-
-.font70[
-.left-column[
-#### Quanti sono i disoccupati iscritti?
-#### Chi sono i disoccupati iscritti?
-#### Disoccupati iscritti in Svizzera e in Ticino
-
-]
-]
-
-
-.right-column[
-![](plot/p1.svg)
-]
 
 ---
 
@@ -344,7 +360,6 @@ class: clear
 .left-column[
 #### Quanti sono i disoccupati iscritti?
 #### Chi sono i disoccupati iscritti?
-#### Disoccupati iscritti in Svizzera e in Ticino
 #### Persone in cerca di impiego .hl[non] disoccupate in Svizzera e in Ticino
 
 ]
@@ -363,9 +378,8 @@ class: clear
 .left-column[
 #### Quanti sono i disoccupati iscritti?
 #### Chi sono i disoccupati iscritti?
-#### Disoccupati iscritti in Svizzera e in Ticino
-#### Persone in cerca di impiego non disoccupate in Svizzera e in Ticino
-#### Persone in cerca di impiego in Svizzera e in Ticino
+#### Persone iscritte non disoccupate
+#### Totale delle persone iscritte
 
 ]
 ]
@@ -374,12 +388,6 @@ class: clear
 ![](plot/p4.svg)
 
 ]
-
----
-
-class: hide-logo, inverse, center, middle
-
-# La trappola della realtà codificata
 
 ---
 
@@ -529,24 +537,6 @@ class: clear
 
 ]
 
----
-class: clear
-
-.font70[
-.left-column[
-#### Disoccupati iscritti vs. disoccupati ai sensi dell'ILO
-#### .hl[Percezione] dell'evoluzione della disoccupazione nei prossimi 12 mesi
-
-]
-]
-
---
-
-.right-column[
-![](plot/p6.svg)
-
-]
-
 
 ---
 
@@ -562,9 +552,10 @@ class: clear
 --
 
 .right-column[
-###### Un numero più una fonte "sicura" => Regola magica
+###### Un numero più una fonte "sicura" = Regola magica
 .font80[
-*"Prima di fare il bagno bisogna aspettare almeno 30 minuti"*
+Esempio:
+  *"Prima di fare il bagno bisogna aspettare almeno 30 minuti"*
 ]
 ]
 
@@ -574,11 +565,15 @@ class: clear
 
 ###### La statistica dei... luoghi comuni
 .font80[
-*"Se vuoi ispirare fiducia, dai molti dati statistici. Non importa che siano comprensibili, basta che siano in quantità sufficiente"*
-  Lewis Carroll   
-
 *"Non mi fido molto delle statistiche, perché statisticamente un uomo con la testa nel forno acceso e i piedi nel congelatore ha una temperatura media"*
-  Charles Bukowski  
+.dark-warm-grey[
+Charles Bukowski
+]
+
+*"Se vuoi ispirare fiducia, dai molti dati statistici. Non importa che siano comprensibili, basta che siano in quantità sufficiente"*
+.dark-warm-grey[
+Lewis Carroll   
+]
 
 <br>
 Altri esempi:  
@@ -629,7 +624,7 @@ class: clear
 
 ![](immagini/poppins-trucco.gif)  
 
-Il salto culturale, cioè passare dalla cultura del pretendere alla cultura del .hl[confronto] è qualcosa di più di un semplice *make-up*, per farlo occorre fare chiarezza su quello che sentiamo, su quello che vorremmo e poi verificare se, e come, la statistica ci può aiutare a tirare un filo.  
+Il salto culturale, cioè passare dalla cultura del pretendere alla cultura del .hl[confronto] è qualcosa di più di un semplice *make-up*, per farlo occorre: fare chiarezza su quello che sentiamo, su quello che vorremmo e poi verificare se, e come, la statistica ci può aiutare.  
 .font60[.mid-warm-grey[*[autore sconosciuto]*]]
 
 
