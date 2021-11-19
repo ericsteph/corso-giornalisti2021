@@ -164,13 +164,16 @@ p6 <- d %>%
     axis.text = element_text(size = rel(0.5)))
 
 
+a <- 4 * 1.85
+b <- 3 * 1.85
+
 # Salvo le figure
-ggsave(file="plot/p1.svg", plot=p1, width=10, height=6.5)
-ggsave(file="plot/p2.svg", plot=p2, width=10, height=6.5)
-ggsave(file="plot/p3.svg", plot=p3, width=10, height=6.5)
-ggsave(file="plot/p4.svg", plot=p4, width=10, height=6.5)
-ggsave(file="plot/p5.svg", plot=p5, width=10, height=6.5)
-ggsave(file="plot/p6.svg", plot=p6, width=10, height=6.5)
+ggsave(file="plot/p1.svg", plot=p1, width=a, height=b)
+ggsave(file="plot/p2.svg", plot=p2, width=a, height=b)
+ggsave(file="plot/p3.svg", plot=p3, width=a, height=b)
+ggsave(file="plot/p4.svg", plot=p4, width=a, height=b)
+ggsave(file="plot/p5.svg", plot=p5, width=a, height=b)
+ggsave(file="plot/p6.svg", plot=p6, width=a, height=b)
 
 
 
