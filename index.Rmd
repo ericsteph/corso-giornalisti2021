@@ -152,7 +152,7 @@ class: clear
 
 .pull-left[
 
-##### Problema: la trappola della realtà codificata
+##### La realtà codificata
 
 ![](immagini/03_30min_250.jpg)
 .font50[
